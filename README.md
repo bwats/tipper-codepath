@@ -1,10 +1,12 @@
+<a href="https://github.com/bwats/tipper-codepath/blob/master/tip-icon.png" target="_blank"><img src='https://github.com/bwats/tipper-codepath/blob/master/tip-icon.png' title='Icon' width='' alt='App Icon' /></a>
+
 # Pre-work – Tipper
 
 **Tipper** is a tip calculator application for iOS.
 
 Submitted by: Brian Watson
 
-Time spent: 9 hours spent in total
+Time spent: 8 hours spent in total
 
 ## User Stories
 
